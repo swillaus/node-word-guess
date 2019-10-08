@@ -1,4 +1,5 @@
 # node-word-guess
 wk11 - node word guess game
 
-All features are working but I am getting a looping error that I am trying to fix
+<!-- Link to video showing it working correctly -->
+https://drive.google.com/file/d/1w6zC8HqGr0mT9m78Rd7CJoaDvFbGMWyg/view
