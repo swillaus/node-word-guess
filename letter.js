@@ -5,7 +5,7 @@ function Letter(val) {
         if(this.isGuessed){
             return this.letter
         }
-        return "_"
+        return "_ "
     }
     this.guessLetter = function(guess){
         if(guess === this.letter){
